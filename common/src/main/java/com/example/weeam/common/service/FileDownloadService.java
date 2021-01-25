@@ -22,8 +22,6 @@ import java.io.OutputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
-;
-
 /**
  * Created by Weeam Awad on 5/5/2018.
  */
